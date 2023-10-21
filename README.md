@@ -1,2 +1,2 @@
-# scripts
-random scripts
+# RORS
+repo of random scripts
